@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+**/node_modules/
+.package-lock.json
+**/.package-lock.json
+
+# Python Virtual Environments
+.venv/
+**/.venv/
+__pycache__/
+
+# Logs & temp
+*.log
+.DS_Store
+Thumbs.db
